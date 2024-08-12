@@ -1,0 +1,13 @@
+#robots.txt to https:// Link zur Domain.de/
+
+User-agent: *
+Dissallow: *
+
+User-agent: HelloEXIF
+allow: *
+disallow: /readme.pdf
+
+/sitemap.xml
+
+
+<link rel="sitemap" type="application/xml" title="robots" href="robots.txt" />
